@@ -1,0 +1,58 @@
+{
+  "id": "3834177",
+  "name": "个人网页2022.12.20",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3176624",
+      "name": "Facebook",
+      "font_class": "Facebook",
+      "unicode": "e9fd",
+      "unicode_decimal": 59901
+    },
+    {
+      "icon_id": "3176653",
+      "name": "Instagram",
+      "font_class": "Instagram",
+      "unicode": "ea10",
+      "unicode_decimal": 59920
+    },
+    {
+      "icon_id": "4936972",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e87f",
+      "unicode_decimal": 59519
+    },
+    {
+      "icon_id": "8289051",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e876",
+      "unicode_decimal": 59510
+    },
+    {
+      "icon_id": "8430216",
+      "name": "wechat",
+      "font_class": "wechat-",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "11488038",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "18564907",
+      "name": "加强版 小红书",
+      "font_class": "jiaqiangban",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
